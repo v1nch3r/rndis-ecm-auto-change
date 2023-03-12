@@ -3,7 +3,9 @@
 - E5573C
 
 # Flashing
-just flash via webui
+- extrack zip file
+- find file with .bin extension
+- upload and flash .bin via updater wenui
 
 // DWYOR //
 
