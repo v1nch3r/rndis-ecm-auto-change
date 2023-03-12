@@ -5,7 +5,7 @@
 # Flashing
 - extrack zip file
 - find file with .bin extension
-- upload and flash .bin via updater webui
+- upload and flash file .bin via updater webui
 
 // DWYOR //
 
